@@ -3,7 +3,7 @@ var pool=mysql.createPool(
 {    host:'localhost',
 port:3306,
 user:'root',
-password:'123',
+password:'xxx',
 database:'electronicsproduct',
 connectionLimit:100,
 multipleStatement:true
